@@ -6,6 +6,9 @@ Solved problems of HackerRank.
 www.hackerrank.com
 
 All solutions were developed by Daniel Henrique (me).
+https://www.hackerrank.com/daniel_henrique1
+
+Some solutions are very old and not reflect my current skills.
 
 # Solutions
 
