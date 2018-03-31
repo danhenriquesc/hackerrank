@@ -76,6 +76,57 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
 
+**Strings**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Super Reduced String | | | ✓ |
+| CamelCase | ✓ | | ✓ |
+| Strong Password | ✓ | | |
+| Two Characters | | | ✓ |
+| Caesar Cipher | | | ✓ |
+| Mars Exploration | | | ✓ |
+| HackerRank in a String! | ✓ | | |
+| Pangrams | ✓ | | ✓ |
+| Alternating Characters | ✓ | | |
+| String Construction | | | ✓ |
+| Ashton and String | | ✓ | |
+
+**Sorting**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Big Sorting | | | ✓ |
+| Intro to Tutorial Challenges | | | ✓ |
+| Insertion Sort - Part 1 | | | ✓ |
+| Counting Sort 1 | | | ✓ |
+
+**Searching**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Ice Cream Parlor | | | ✓ |
+
+**Greedy**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Marc's Cakewalk | | | ✓ |
+
+**Dynamic Programming**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| The Maximum Subarray | | ✓ | |
+
+**Bit Manipulation**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Lonely Integer | | | ✓ |
+| Maximizing XOR | | | ✓ |
+| Flipping bits | | | ✓ |
+
 ## Data Structures
 
 **Arrays**
