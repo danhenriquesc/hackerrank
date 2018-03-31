@@ -1,0 +1,1 @@
+select city from STATION WHERE substr(CITY,1,1) in ('A','E','I','O','U') and substr(CITY,-1,1) in ('A','E','I','O','U');

@@ -75,3 +75,48 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Extra Long Factorials | ✓ | | |
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
+
+## Data Structures
+
+**Arrays**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Arrays - DS | | | ✓ |
+| 2D Array - DS | | | ✓ |
+
+## Functional Programming
+
+**Introduction**
+
+|  Problem | Clojure |
+| :-- | :--: |
+| Solve Me First FP | ✓ |
+| Hello World | ✓ |
+
+## SQL
+
+**Basic Select**
+
+|  Problem | MySQL |
+| :-- | :--: |
+| Revising the Select Query I | ✓ |
+| Revising the Select Query II | ✓ |
+| Select All | ✓ |
+| Select By ID | ✓ |
+| Japanese Cities' Attributes | ✓ |
+| Japanese Cities' Names | ✓ |
+| Weather Observation Station 1 | ✓ |
+| Weather Observation Station 3 | ✓ |
+| Weather Observation Station 4 | ✓ |
+| Weather Observation Station 5 | ✓ |
+| Weather Observation Station 6 | ✓ |
+| Weather Observation Station 7 | ✓ |
+| Weather Observation Station 8 | ✓ |
+| Weather Observation Station 9 | ✓ |
+| Weather Observation Station 10 | ✓ |
+| Weather Observation Station 11 | ✓ |
+| Weather Observation Station 12 | ✓ |
+| Higher Than 75 Marks | ✓ |
+| Employee Names | ✓ |
+| Employee Salaries | ✓ |
