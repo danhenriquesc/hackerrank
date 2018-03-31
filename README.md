@@ -21,6 +21,14 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Linked Lists: Detect a Cycle | ✓  | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
 
+## Contest: OLX - Code and the Curious
+https://www.hackerrank.com/contests/code-and-the-curious/challenges
+
+
+| Problem                      | Python3 | C++  |  PHP |
+| :---------------------------- | :--: | :--: | :--: |
+| Sell Statistics Query System        | ✓   | |        |
+
 ## Algorithms
 
 **Warmup**
