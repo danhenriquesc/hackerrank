@@ -1,5 +1,3 @@
-
-
 # HackerRank
 
 Solved problems of HackerRank.
@@ -21,8 +19,13 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Problem                      | Python3 | C++  |  PHP |
 | :---------------------------- | :--: | :--: | :--: |
 | Arrays: Left Rotation        | ✓   | |        |
+| Strings: Making Anagrams        | ✓   | |        |
+| Hash Tables: Ransom Note        | ✓   | |        |
 | Linked Lists: Detect a Cycle | ✓  | |        |
+| Stacks: Balanced Brackets | ✓   | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
+| Tries: Contacts | ✓   | |        |
+
 
 ## Contest: OLX - Code and the Curious
 https://www.hackerrank.com/contests/code-and-the-curious/challenges
