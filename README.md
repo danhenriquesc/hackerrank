@@ -35,6 +35,12 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :---------------------------- | :--: | :--: | :--: |
 | Sell Statistics Query System        | ✓   | |        |
 
+## Contest: Week of Code 37
+| Problem                      | Python3 | C++  |  PHP |
+| :---------------------------- | :--: | :--: | :--: |
+| The Average Rating of Top Employees        |    | ✓ |        |
+| Simple Language        | ✓   | |        |
+
 ## Algorithms
 
 **Warmup**
