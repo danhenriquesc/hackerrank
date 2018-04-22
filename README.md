@@ -26,6 +26,13 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Queues: A Tale of Two Stacks | ✓   | |        |
 | Tries: Contacts | ✓   | |        |
 
+**Algorithms**
+
+| Problem                      | Python3 | C++  |  PHP |
+| :---------------------------- | :--: | :--: | :--: |
+| Sorting: Bubble Sort        | ✓   | |        |
+| Sorting: Comparator        | ✓   | |        |
+
 
 ## Contest: OLX - Code and the Curious
 https://www.hackerrank.com/contests/code-and-the-curious/challenges
