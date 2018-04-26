@@ -32,6 +32,17 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | :---------------------------- | :--: | :--: | :--: |
 | Sorting: Bubble Sort        | ✓   | |        |
 | Sorting: Comparator        | ✓   | |        |
+| Hash Tables: Ice Cream Parlor        | ✓   | |        |
+| DFS: Connected Cell in a Grid        | ✓   | |        |
+
+**Techniques/Concepts**
+
+| Problem                      | Python3 | C++  |  PHP |
+| :---------------------------- | :--: | :--: | :--: |
+| Time Complexity: Primality        | ✓   | |        |
+| Recursion: Fibonacci Numbers        | ✓   | |        |
+| Recursion: Davis' Staircase       | ✓   | |        |
+| Bit Manipulation: Lonely Integer        | ✓   | |        |
 
 
 ## Contest: OLX - Code and the Curious
