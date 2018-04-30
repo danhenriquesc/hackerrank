@@ -97,6 +97,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Electronics Shop | ✓ | | |
 | Cats and a Mouse | ✓ | | |
 | Picking Numbers | | | ✓ |
+| Climbing the Leaderboard | ✓ | | |
 | The Hurdle Race | | | ✓ |
 | Designer PDF Viewer | | | ✓ |
 | Utopian Tree | | | ✓ |
@@ -174,6 +175,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: |
 | Solve Me First FP | ✓ |
 | Hello World | ✓ |
+| Hello World N Times | ✓ |
+| List Replication | ✓ |
 
 ## SQL
 
