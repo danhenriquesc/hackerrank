@@ -177,6 +177,14 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Hello World | ✓ |
 | Hello World N Times | ✓ |
 | List Replication | ✓ |
+| Filter Array | ✓ |
+| Filter Positions in a List | ✓ |
+| Array Of N Elements | ✓ |
+| Reverse a List | ✓ |
+| Sum of Odd Elements | ✓ |
+| List Length | ✓ |
+| Update List | ✓ |
+| Evaluating e^x | ✓ |
 
 ## SQL
 
