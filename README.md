@@ -42,6 +42,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Time Complexity: Primality        | ✓   | |        |
 | Recursion: Fibonacci Numbers        | ✓   | |        |
 | Recursion: Davis' Staircase       | ✓   | |        |
+| DP: Coin Change       | ✓   | |        |
 | Bit Manipulation: Lonely Integer        | ✓   | |        |
 
 
