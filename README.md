@@ -1,10 +1,14 @@
 # HackerRank
 
+A collection of solutions and explanations of Hackerrank.com problems in many languages.
+
 Solved problems of HackerRank.
 www.hackerrank.com
 
+
 The problems are sorted according to the HackerRank Hierarchy.<br>
 Please contribute if you have a better solution or add a new solution!
+
 
 # Solutions
 
@@ -73,7 +77,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Staircase | | ✓ | |
 | Mini-Max Sum | | | ✓ |
 | Birthday Cake Candles | | | ✓ |
-| Time Conversion | | | ✓ |
+| Time Conversion | ✓ | | ✓ |
 
 
 **Implementation**
