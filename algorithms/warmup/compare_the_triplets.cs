@@ -18,7 +18,8 @@ class Solution {
     for(int i = 0; i < a.Count; i++) {
         if(a[i] > b[i]) {
             ret[0]++;
-        }else if(a[i] < b[i]) {
+        }
+        else if(a[i] < b[i]) {
             ret[1]++;
         }
     }
