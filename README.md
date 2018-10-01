@@ -3,7 +3,7 @@
 Solved problems of HackerRank.
 www.hackerrank.com
 
-The problems are sorted according to the HackerRank Hierarchy.
+The problems are sorted according to the HackerRank Hierarchy.<br>
 Please contribute if you have a better solution or add a new solution!
 
 # Solutions
