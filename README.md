@@ -1,5 +1,7 @@
 # HackerRank
 
+A collection of solutions and explanations of Hackerrank.com problems in many languages.
+
 Solved problems of HackerRank.
 www.hackerrank.com
 
