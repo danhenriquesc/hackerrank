@@ -3,10 +3,11 @@
 Solved problems of HackerRank.
 www.hackerrank.com
 
-All solutions were developed by Daniel Henrique (me).
-https://www.hackerrank.com/daniel_henrique1
+#Description
+Programming solutions from HackerRank, a platform to practice coding and where developers compete by trying to program according to provided specifications.
 
-Some solutions are very old and not reflect my current skills.
+## TODO
+Solve challenges in other programming languages
 
 # Solutions
 
