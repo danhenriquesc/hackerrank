@@ -3,7 +3,7 @@
 Solved problems of HackerRank.
 www.hackerrank.com
 
-#Description
+# Description
 Programming solutions from HackerRank, a platform to practice coding and where developers compete by trying to program according to provided specifications.
 
 ## TODO
