@@ -25,6 +25,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Stacks: Balanced Brackets | ✓   | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
 | Tries: Contacts | ✓   | |        |
+| Reverse a doubly linked list | | ✓ | |
 
 **Algorithms**
 
