@@ -1,4 +1,5 @@
 # HackerRank
+HackerRank is a very good webaite for solving problems to get into competitions like acm icpc
 
 Solved problems of HackerRank.
 www.hackerrank.com
