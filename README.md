@@ -1,9 +1,9 @@
 # HackerRank
 
+A collection of solutions and explanations of Hackerrank.com problems in many languages.
+
 Solved problems of HackerRank.
 www.hackerrank.com
-
-Some solutions are very old and not reflect my current skills.
 
 # Solutions
 
