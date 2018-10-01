@@ -68,7 +68,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Solve Me First | ✓ | | |
 | Simple Array Sum | ✓ | ✓ | |
-| Compare the Triplets | | ✓ | |
+| Compare the Triplets | ✓ | ✓ | |
 | A Very Big Sum | | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | | ✓ | |
