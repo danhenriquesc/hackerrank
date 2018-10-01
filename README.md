@@ -104,6 +104,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Extra Long Factorials | ✓ | | |
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
+| The Grid Search | | ✓ | |
+| Absolute Permutation | | ✓ | |
 
 **Strings**
 
