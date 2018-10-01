@@ -5,6 +5,11 @@ A collection of solutions and explanations of Hackerrank.com problems in many la
 Solved problems of HackerRank.
 www.hackerrank.com
 
+
+The problems are sorted according to the HackerRank Hierarchy.<br>
+Please contribute if you have a better solution or add a new solution!
+
+
 # Solutions
 
 ## Cracking the Coding Interview
