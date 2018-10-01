@@ -1,7 +1,7 @@
 # How to contribute? :thinking:
 
 ## First :open_mouth:
-Clone this repo and create a branch with the name of the solution, something like this: ```git checkout -b obsinqsob01-bubble```.  
+Fork this repo and create a branch with the name of the solution, something like this: ```git checkout -b obsinqsob01-bubble```.  
 Then commit and push :arrow_up:.  
 Open a pull request and merge :smile:
 
