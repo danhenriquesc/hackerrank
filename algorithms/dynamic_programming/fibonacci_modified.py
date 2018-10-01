@@ -1,43 +1,21 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the fibonacciModified function below.
-def fibonacciModified(t1, t2, n):
-    if (n<3):
-        if(n==1):
-            return t1
-        else:
-            return t2
-
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+s=raw_input().split();
+a=(int)(s[0]);
+b=(int)(s[1]);
+x=(int)(s[2]);
+if (x<3):
+    if(x==1):
+        print a
     else:
-        c = t1 + t2*t2
-        n = n - 2
-        while (n>0):
-            t1 = t2
-            t2 = c
-            c = t1 + t2*t2
-            n = n - 1
-        return t2
+        print b
     
-
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    t1T2n = input().split()
-
-    t1 = int(t1T2n[0])
-
-    t2 = int(t1T2n[1])
-
-    n = int(t1T2n[2])
-
-    result = fibonacciModified(t1, t2, n)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+else:
+    c = a + b*b
+    x = x - 2
+    while (x>0):
+        a = b
+        b = c
+        c = a + b*b
+        x = x - 1
+    print b
+    
