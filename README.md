@@ -75,7 +75,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Staircase | | ✓ | |
 | Mini-Max Sum | | | ✓ |
 | Birthday Cake Candles | | | ✓ |
-| Time Conversion | | | ✓ |
+| Time Conversion | ✓ | | ✓ |
 
 
 **Implementation**
