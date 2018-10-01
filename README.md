@@ -5,6 +5,12 @@ A collection of solutions and explanations of Hackerrank.com problems in many la
 Solved problems of HackerRank.
 www.hackerrank.com
 
+# Description
+Programming solutions from HackerRank, a platform to practice coding and where developers compete by trying to program according to provided specifications.
+
+## TODO
+Solve challenges in other programming languages
+
 # Solutions
 
 ## Cracking the Coding Interview
