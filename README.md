@@ -28,12 +28,12 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 **Algorithms**
 
-| Problem                      | Python3 | C++  |  PHP |
-| :---------------------------- | :--: | :--: | :--: |
-| Sorting: Bubble Sort        | ✓   | |        |
-| Sorting: Comparator        | ✓   | |        |
-| Hash Tables: Ice Cream Parlor        | ✓   | |        |
-| DFS: Connected Cell in a Grid        | ✓   | |        |
+| Problem                      | Python3 | C++  |  PHP |  C# |
+| :---------------------------- | :--: | :--: | :--: | :--: |
+| Sorting: Bubble Sort        | ✓   | |        | ✓   |
+| Sorting: Comparator        | ✓   | |        |        |
+| Hash Tables: Ice Cream Parlor        | ✓   | |        |        |
+| DFS: Connected Cell in a Grid        | ✓   | |        |        |
 
 **Techniques/Concepts**
 
