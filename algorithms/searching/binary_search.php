@@ -14,11 +14,9 @@ function binarySearch (array $array, $item) {
         return true;
     }
 
-    if ($item < $midItem) {
-        $subArray = array_slice($array, 0, $midPosition);
-    } else {
-        $subArray = array_slice($array, $midPosition + 1);
-    } 
+    $subArray = ($item < $midItem) 
+        ? array_slice($array, 0, $midPosition)
+        : array_slice($array, $midPosition + 1);
 
     return binarySearch($subArray, $item);
 }
