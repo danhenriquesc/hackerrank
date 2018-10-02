@@ -167,6 +167,12 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
+**Linked Lists**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Reverse doubly linked list | | ✓ |  |
+
 
 ## Functional Programming
 
