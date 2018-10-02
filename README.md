@@ -82,7 +82,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Grading Students | | ✓ | |
+| Grading Students | ✓ | ✓ | |
 | Apple and Orange | | ✓ | |
 | Kangaroo | | ✓ | |
 | Between Two Sets | | ✓ | |
