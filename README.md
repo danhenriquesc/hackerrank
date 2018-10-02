@@ -220,25 +220,25 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Abbrevation | | | ✓ |
+| Abbrevation | | ✓ | |
 | Candies | | ✓ | |
 
 **Graph**
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| BFS: Shortest Reach In A Graph | | | ✓ |
-| DFS: Connected Cell In A Grid | | | ✓ |
-| Find The Nearest Clone | | | ✓ |
+| BFS: Shortest Reach In A Graph | | ✓ | |
+| DFS: Connected Cell In A Grid | | ✓ | |
+| Find The Nearest Clone | | ✓ | |
 
 **String Manipulation**
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Common Child | | | ✓ |
+| Common Child | | ✓ | |
 
 **Trees**
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Trees : Is This a Binary Search Tree ? | | | ✓ |
+| Trees : Is This a Binary Search Tree ? | | ✓ | |
