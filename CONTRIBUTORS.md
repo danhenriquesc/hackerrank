@@ -7,3 +7,4 @@ Every name is sorted in alphabetically.
 - [jackey8616](https://github.com/jackey8616)
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [sbz](https://github.com/sbz)
+- [surya-06](https://github.com/Surya-06)
