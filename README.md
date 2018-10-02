@@ -213,3 +213,32 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Higher Than 75 Marks | ✓ |
 | Employee Names | ✓ |
 | Employee Salaries | ✓ |
+
+## Interview Preparation Kit
+
+**Dynamic Programming**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Abbrevation | | | ✓ |
+| Candies | | ✓ | |
+
+**Graph**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| BFS: Shortest Reach In A Graph | | | ✓ |
+| DFS: Connected Cell In A Grid | | | ✓ |
+| Find The Nearest Clone | | | ✓ |
+
+**String Manipulation**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Common Child | | | ✓ |
+
+**Trees**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Trees : Is This a Binary Search Tree ? | | | ✓ |
