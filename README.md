@@ -66,7 +66,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Solve Me First | ✓ | | |
+| Solve Me First | ✓ | ✓ | |
 | Simple Array Sum | ✓ | ✓ | |
 | Compare the Triplets | | ✓ | |
 | A Very Big Sum | ✓ | ✓ | |
