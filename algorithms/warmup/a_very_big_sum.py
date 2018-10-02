@@ -1,6 +1,6 @@
 big_sum = 0
 
-size = input()
+size = int(input())
 
 for i in range(0, size):
 	num = input()
