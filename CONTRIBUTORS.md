@@ -8,4 +8,4 @@ Every name is sorted in alphabetically.
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [RitvijSrivastava](https://github.com/RitvijSrivastava) 
 - [sbz](https://github.com/sbz)
-
+- [vinayak42](https://github.com/vinayak42)
