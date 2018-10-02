@@ -167,6 +167,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
+| Left Rotation | ✓ | | |
 
 ## Functional Programming
 
