@@ -14,3 +14,5 @@ Every name is sorted in alphabetically.
 - [sbz](https://github.com/sbz)
 - [shaurya uppal](https://github.com/shauryauppal)
 - [vinayak42](https://github.com/vinayak42)
+- [Ashutosh Dwivedi](https://github.com/kindacoder)
+
