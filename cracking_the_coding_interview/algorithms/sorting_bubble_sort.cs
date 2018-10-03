@@ -13,21 +13,27 @@ using System.Text;
 using System;
 
 class Solution {
-  static void countSwaps(int[] a) {
-      int swaps = 0;
-      for(int i = 0; i < a.Length; i++) {
-          for(int j = i + 1; j < a.Length; j++){
-              if(a[i] > a[j]){
-                  int temp = a[i];
-                  a[i] = a[j];
-                  a[j] = temp;
-                  swaps++;
-              }
-          }
-      }
-      
-      Console.WriteLine("Array is sorted in " + swaps + " swaps.");
-      Console.WriteLine("First Element: " + a[0]);
-      Console.WriteLine("Last Element: " + a[a.Length - 1]);
-  }
+    static void countSwaps(int[] a) {
+        int swaps = 0;
+        for(int i = 0; i < a.Length; i++) {
+            for(int j = i + 1; j < a.Length; j++){
+                if(a[i] > a[j]){
+                    int temp = a[i];
+                    a[i] = a[j];
+                    a[j] = temp;
+                    swaps++;
+                }
+            }
+        }
+        
+        Console.WriteLine("Array is sorted in " + swaps + " swaps.");
+        Console.WriteLine("First Element: " + a[0]);
+        Console.WriteLine("Last Element: " + a[a.Length - 1]);
+    }
+
+    static void Main(string[] args) {
+        int n = Convert.ToInt32(Console.ReadLine());
+        int[] a = Array.ConvertAll(Console.ReadLine().Split(' '), aTemp => Convert.ToInt32(aTemp));
+        countSwaps(a);
+    }
 }
