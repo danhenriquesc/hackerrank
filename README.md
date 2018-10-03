@@ -141,6 +141,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
 | Binary Search | | | ✓ |
+| Pairs | | | ✓ |
 
 **Graph Theory**
 
