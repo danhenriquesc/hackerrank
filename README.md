@@ -235,3 +235,6 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 |  Problem | MySQL |
 | :-- | :--: |
 | The PADS | ✓  |
+| Occupations |  |
+| Binary Tree Nodes |  |
+| New Companies |  |
