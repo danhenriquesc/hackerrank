@@ -6,6 +6,7 @@ Every name is sorted in alphabetically.
 - [BhanukaUOM](https://github.com/BhanukaUOM)
 - [damcclean](https://github.com/damcclean)
 - [danhenriquesc](https://github.com/danhenriquesc)
+- [hardianlawi](https://github.com/hardianlawi)
 - [hundredrab](https://github.com/hundredrab)
 - [jackey8616](https://github.com/jackey8616)
 - [mirianashvili](https://github.com/mirianashvili)
@@ -13,5 +14,4 @@ Every name is sorted in alphabetically.
 - [RitvijSrivastava](https://github.com/RitvijSrivastava) 
 - [sbz](https://github.com/sbz)
 - [shaurya uppal](https://github.com/shauryauppal)
-- [Ubamba98](https://github.com/ubamba98)
 - [vinayak42](https://github.com/vinayak42)
