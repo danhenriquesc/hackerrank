@@ -245,4 +245,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Binary Search Tree : Lowest Common Ancestor | ✓ | | |
 
+**Stacks and Queues**
 
+|  Problem | Python3 |
+| :-- | :--: |
+| Largest Rectangle | ✓ |
