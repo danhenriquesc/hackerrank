@@ -9,4 +9,5 @@ Every name is sorted in alphabetically.
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [RitvijSrivastava](https://github.com/RitvijSrivastava) 
 - [sbz](https://github.com/sbz)
+- [shaurya uppal](https://github.com/shauryauppal)
 - [vinayak42](https://github.com/vinayak42)
