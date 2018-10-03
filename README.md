@@ -10,7 +10,7 @@ To see every contributors, please reference at [here](https://github.com/hackerr
 
 # Solutions
 
-## Cracking the Coding Interview
+## Cracking the Coding Interview (DEPRECATED)
 https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 
@@ -68,7 +68,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Solve Me First | ✓ | | |
 | Simple Array Sum | ✓ | ✓ | |
-| Compare the Triplets | | ✓ | |
+| Compare the Triplets | ✓ | ✓ | |
 | A Very Big Sum | | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | | ✓ | |
@@ -82,7 +82,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Grading Students | | ✓ | |
+| Grading Students | ✓ | ✓ | |
 | Apple and Orange | | ✓ | |
 | Kangaroo | | ✓ | |
 | Between Two Sets | | ✓ | |
@@ -167,6 +167,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
+| Left Rotation | ✓ | | |
 
 ## Functional Programming
 

@@ -6,5 +6,11 @@ Every name is sorted in alphabetically.
 - [danhenriquesc](https://github.com/danhenriquesc)
 - [jackey8616](https://github.com/jackey8616)
 - [Obsinqsob01](https://github.com/Obsinqsob01)
-- [Ubamba98](https://github.com/ubamba98)
+
+
+
+- [RitvijSrivastava](https://github.com/RitvijSrivastava) 
+
 - [sbz](https://github.com/sbz)
+- [Ubamba98](https://github.com/ubamba98)
+- [vinayak42](https://github.com/vinayak42)
