@@ -105,8 +105,10 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Jumping on the Clouds: Revisited | ✓ | | |
 | Find Digits | ✓ | | |
 | Extra Long Factorials | ✓ | | |
+| Sherlock and Squares | | ✓ | |
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
+| Chocolate Feast | | ✓ | |
 | The Grid Search | | ✓ | |
 | Absolute Permutation | | ✓ | |
 
