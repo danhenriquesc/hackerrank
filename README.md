@@ -1,16 +1,16 @@
 # HackerRank
 
+A collection of solutions and explanations of Hackerrank.com problems in many languages.
+
 Solved problems of HackerRank.
 www.hackerrank.com
 
-All solutions were developed by Daniel Henrique (me).
-https://www.hackerrank.com/daniel_henrique1
-
-Some solutions are very old and not reflect my current skills.
+# Contributions
+To see every contributors, please reference at [here](https://github.com/hackerrank/hackerrank/blob/master/CONTRIBUTORS.md).
 
 # Solutions
 
-## Cracking the Coding Interview
+## Cracking the Coding Interview (DEPRECATED)
 https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 
@@ -66,23 +66,23 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Solve Me First | ✓ | | |
+| Solve Me First | ✓ | ✓ | |
 | Simple Array Sum | ✓ | ✓ | |
-| Compare the Triplets | | ✓ | |
-| A Very Big Sum | | ✓ | |
+| Compare the Triplets | ✓ | ✓ | |
+| A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | | ✓ | |
 | Staircase | | ✓ | |
-| Mini-Max Sum | | | ✓ |
-| Birthday Cake Candles | | | ✓ |
-| Time Conversion | | | ✓ |
+| Mini-Max Sum | |✓ | ✓ |
+| Birthday Cake Candles | |✓ | ✓ |
+| Time Conversion | ✓ | ✓| ✓ |
 
 
 **Implementation**
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Grading Students | | ✓ | |
+| Grading Students | ✓ | ✓ | |
 | Apple and Orange | | ✓ | |
 | Kangaroo | | ✓ | |
 | Between Two Sets | | ✓ | |
@@ -107,6 +107,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Extra Long Factorials | ✓ | | |
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
+| The Grid Search | | ✓ | |
+| Absolute Permutation | | ✓ | |
 
 **Strings**
 
@@ -139,6 +141,12 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
 
+**Graph Theory**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Journey to the Moon | ✓ | | |
+
 **Greedy**
 
 |  Problem | Python3 | C++ | PHP |
@@ -167,6 +175,14 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
+| Left Rotation | ✓ | | |
+| Is This a Binary Search Tree? | ✓ | | |
+
+**Linked Lists**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Reverse a doubly linked list | | ✓ | |
 
 ## Functional Programming
 
