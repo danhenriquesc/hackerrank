@@ -72,7 +72,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | ✓ | ✓ | |
-| Staircase | | ✓ | |
+| Staircase | ✓ | ✓ | |
 | Mini-Max Sum | |✓ | ✓ |
 | Birthday Cake Candles | |✓ | ✓ |
 | Time Conversion | ✓ | ✓| ✓ |
