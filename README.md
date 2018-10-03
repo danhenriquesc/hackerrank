@@ -66,10 +66,10 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
-| Solve Me First | ✓ | | |
+| Solve Me First | ✓ | ✓ | |
 | Simple Array Sum | ✓ | ✓ | |
 | Compare the Triplets | ✓ | ✓ | |
-| A Very Big Sum | | ✓ | |
+| A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | | ✓ | |
 | Staircase | | ✓ | |
@@ -107,6 +107,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Extra Long Factorials | ✓ | | |
 | Jumping on the Clouds | | | ✓ |
 | Minimum Distances | | | ✓ |
+| The Grid Search | | ✓ | |
+| Absolute Permutation | | ✓ | |
 
 **Strings**
 
@@ -139,6 +141,11 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
 
+**Graph Theory**
+ |  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Journey to the Moon | ✓ | | |
+
 **Greedy**
 
 |  Problem | Python3 | C++ | PHP |
@@ -168,6 +175,13 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
 | Left Rotation | ✓ | | |
+| Is This a Binary Search Tree? | ✓ | | |
+
+**Linked Lists**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Reverse a doubly linked list | | ✓ | |
 
 ## Functional Programming
 
