@@ -172,6 +172,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 **Linked Lists**
 
 |  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
 | Reverse a doubly linked list | | ✓ | |
 
 ## Functional Programming
