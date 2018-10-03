@@ -229,3 +229,20 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Higher Than 75 Marks | ✓ |
 | Employee Names | ✓ |
 | Employee Salaries | ✓ |
+
+## Interview Preparation Kit
+
+**Greedy Algorithms**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Luck Balance | ✓ | | |
+| Max Min | ✓ |  | |
+
+**Trees**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Binary Search Tree : Lowest Common Ancestor | ✓ | | |
+
+
