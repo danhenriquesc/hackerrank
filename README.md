@@ -18,7 +18,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 | Problem                      | Python3 | C++  |  PHP |
 | :---------------------------- | :--: | :--: | :--: |
-| Arrays: Left Rotation        | ✓   | |        |
+| Arrays: Left Rotation        | ✓   | ✓ |        |
 | Strings: Making Anagrams        | ✓   | |        |
 | Hash Tables: Ransom Note        | ✓   | |        |
 | Linked Lists: Detect a Cycle | ✓  | |        |
