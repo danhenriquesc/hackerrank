@@ -25,7 +25,6 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Stacks: Balanced Brackets | ✓   | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
 | Tries: Contacts | ✓   | |        |
-| Reverse a doubly linked list | | ✓ | |
 
 **Algorithms**
 
@@ -168,6 +167,10 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Arrays - DS | | | ✓ |
 | 2D Array - DS | | | ✓ |
+
+**Linked Lists**
+|  Problem | Python3 | C++ | PHP |
+| Reverse a doubly linked list | | ✓ | |
 
 ## Functional Programming
 
