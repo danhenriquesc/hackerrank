@@ -30,7 +30,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 | Problem                      | Python3 | C++  |  PHP |
 | :---------------------------- | :--: | :--: | :--: |
-| Sorting: Bubble Sort        | ✓   | |        |
+| Sorting: Bubble Sort        | ✓   | | binary  |
 | Sorting: Comparator        | ✓   | |        |
 | Hash Tables: Ice Cream Parlor        | ✓   | |        |
 | DFS: Connected Cell in a Grid        | ✓   | |        |
@@ -140,6 +140,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
+| Binary Search | | | ✓ |
+| Pairs | | | ✓ |
 
 **Graph Theory**
 
