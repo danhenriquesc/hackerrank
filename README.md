@@ -158,6 +158,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
 | The Maximum Subarray | | ✓ | |
+| Fibonacci Modified | ✓ | | |
 
 **Bit Manipulation**
 
