@@ -231,6 +231,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Employee Salaries | ✓ |
 
 **Advance Select**
+
 |  Problem | MySQL |
 | :-- | :--: |
 | The PADS | ✓  |
