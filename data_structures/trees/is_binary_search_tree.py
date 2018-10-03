@@ -1,11 +1,12 @@
 #!/bin/python3
 
-""" Node is defined as """
+
 class node:
     def __init__(self, data):
         self.data = data
         self.left = None
         self.right = None
+
 
 def in_order_array(root, arr):
     if root.left is not None:
@@ -16,11 +17,12 @@ def in_order_array(root, arr):
 
     return arr
 
+
 def checkBST(root):
     array = in_order_array(root, [])
     size = len(array)
-    for i in range(size-1):
-        if array[i+1] <= array[i]:
+    for i in range(size - 1):
+        if array[i + 1] <= array[i]:
             return False
 
     return True
