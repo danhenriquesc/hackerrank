@@ -80,35 +80,35 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 **Implementation**
 
-|  Problem | Python3 | C++ | PHP |
-| :-- | :--: | :--: | :--: |
-| Grading Students | ✓ | ✓ | |
-| Apple and Orange | | ✓ | |
-| Kangaroo | | ✓ | |
-| Between Two Sets | | ✓ | |
-| Breaking the Records | | ✓ | |
-| Birthday Chocolate | | ✓ | |
-| Divisible Sum Pairs | | | ✓ |
-| Migratory Birds | | | ✓ |
-| Day of the Programmer | ✓ | | |
-| Bon Appétit | | | ✓ |
-| Sock Merchant | | | ✓ |
-| Drawing Book | | | ✓ |
-| Counting Valleys | ✓ | | |
-| Electronics Shop | ✓ | | |
-| Cats and a Mouse | ✓ | | |
-| Picking Numbers | | | ✓ |
-| Climbing the Leaderboard | ✓ | | |
-| The Hurdle Race | | | ✓ |
-| Designer PDF Viewer | | | ✓ |
-| Utopian Tree | | | ✓ |
-| Jumping on the Clouds: Revisited | ✓ | | |
-| Find Digits | ✓ | | |
-| Extra Long Factorials | ✓ | | |
-| Jumping on the Clouds | | | ✓ |
-| Minimum Distances | | | ✓ |
-| The Grid Search | | ✓ | |
-| Absolute Permutation | | ✓ | |
+|  Problem | Python3 | C++ | PHP |Java
+| :-- | :--: | :--: | :--: | ||
+| Grading Students | ✓ | ✓ | ||
+| Apple and Orange | | ✓ | | ||
+| Kangaroo | | ✓ | |||
+| Between Two Sets | | ✓ | |||
+| Breaking the Records | | ✓ | |||
+| Birthday Chocolate | | ✓ | |||
+| Divisible Sum Pairs | | | ✓ |||
+| Migratory Birds | | | ✓ |||
+| Day of the Programmer | ✓ | | |||
+| Bon Appétit | | | ✓ |||
+| Sock Merchant | | | ✓ || ✓ |
+| Drawing Book | | | ✓ |||
+| Counting Valleys | ✓ | | |||
+| Electronics Shop | ✓ | | |||
+| Cats and a Mouse | ✓ | | |||
+| Picking Numbers | | | ✓ |||
+| Climbing the Leaderboard | ✓ | | |||
+| The Hurdle Race | | | ✓ |||
+| Designer PDF Viewer | | | ✓ |||
+| Utopian Tree | | | ✓ |||
+| Jumping on the Clouds: Revisited | ✓ | | |||
+| Find Digits | ✓ | | |||
+| Extra Long Factorials | ✓ | | |||
+| Jumping on the Clouds | | | ✓ |||
+| Minimum Distances | | | ✓ |||
+| The Grid Search | | ✓ | |||
+| Absolute Permutation | | ✓ | |||
 
 **Strings**
 
