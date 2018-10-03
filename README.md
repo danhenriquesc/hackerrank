@@ -68,14 +68,14 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | :-- | :--: | :--: | :--: |
 | Solve Me First | ✓ | | |
 | Simple Array Sum | ✓ | ✓ | |
-| Compare the Triplets | | ✓ | |
-| A Very Big Sum |✓  | ✓ | |
+| Compare the Triplets | ✓ | ✓ | |
+| A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | | ✓ | |
 | Plus Minus | | ✓ | |
 | Staircase | | ✓ | |
-| Mini-Max Sum | ✓|✓ | ✓ |
-| Birthday Cake Candles | | | ✓ |
-| Time Conversion | ✓ | | ✓ |
+| Mini-Max Sum | |✓ | ✓ |
+| Birthday Cake Candles | |✓ | ✓ |
+| Time Conversion | ✓ | ✓| ✓ |
 
 
 **Implementation**
