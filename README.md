@@ -22,6 +22,8 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Strings: Making Anagrams        | ✓   | |        |
 | Hash Tables: Ransom Note        | ✓   | |        |
 | Linked Lists: Detect a Cycle | ✓  | |        |
+| Linked Lists: Print the Elements of a Linked List | ✓  | |        |
+
 | Stacks: Balanced Brackets | ✓   | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
 | Tries: Contacts | ✓   | |        |
