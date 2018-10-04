@@ -71,8 +71,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Compare the Triplets | ✓ | ✓ | |
 | A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | | ✓ | |
-| Plus Minus | | ✓ | |
-| Staircase | | ✓ | |
+| Plus Minus | ✓ | ✓ | |
+| Staircase | ✓ | ✓ | |
 | Mini-Max Sum | |✓ | ✓ |
 | Birthday Cake Candles | |✓ | ✓ |
 | Time Conversion | ✓ | ✓| ✓ |
@@ -125,6 +125,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Alternating Characters | ✓ | | |
 | String Construction | | | ✓ |
 | Ashton and String | | ✓ | |
+| Two Strings |  | | ✓ |
 
 **Sorting**
 
