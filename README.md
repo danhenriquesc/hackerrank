@@ -230,7 +230,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Employee Names | ✓ |
 | Employee Salaries | ✓ |
 
-**Advance Select**
+**Advanced Select**
 
 |  Problem | MySQL |
 | :-- | :--: |
