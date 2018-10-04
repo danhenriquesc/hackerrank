@@ -76,7 +76,6 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Mini-Max Sum | |✓ | ✓ |
 | Birthday Cake Candles | |✓ | ✓ |
 | Time Conversion | ✓ | ✓| ✓ |
-| Two Strings |  | | ✓ |
 
 
 **Implementation**
@@ -126,6 +125,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Alternating Characters | ✓ | | |
 | String Construction | | | ✓ |
 | Ashton and String | | ✓ | |
+| Two Strings |  | | ✓ |
 
 **Sorting**
 
