@@ -138,7 +138,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
-
+| Running Time of Algorithms | | ✓ | |
 **Greedy**
 
 |  Problem | Python3 | C++ | PHP |
