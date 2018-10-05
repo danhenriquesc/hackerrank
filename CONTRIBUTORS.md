@@ -5,6 +5,7 @@ Every name is sorted in alphabetically.
 - [damcclean](https://github.com/damcclean)
 - [danhenriquesc](https://github.com/danhenriquesc)
 - [gktejus](https://github.com/gktejus)
+- [hundredrab](https://github.com/hundredrab)
 - [jackey8616](https://github.com/jackey8616)
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [sbz](https://github.com/sbz)
