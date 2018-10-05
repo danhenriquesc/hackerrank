@@ -6,7 +6,7 @@ Solved problems of HackerRank.
 www.hackerrank.com
 
 # Contributions
-To see every contributors, please reference at [here](https://github.com/hackerrank/hackerrank/blob/master/CONTRIBUTORS.md).
+To see every contributors, please reference at [here](https://github.com/danhenriquesc/hackerrank/blob/master/CONTRIBUTORS.md).
 
 # Solutions
 
