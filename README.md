@@ -168,6 +168,12 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Maximizing XOR | | | ✓ |
 | Flipping bits | | | ✓ |
 
+**Constructive Algorithms**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Bonetrousle | | | ✓ |
+
 ## Data Structures
 
 **Arrays**
