@@ -4,6 +4,7 @@ Every name is sorted in alphabetically.
 
 - [arielmikiabraham](https://github.com/arielmikiabraham)
 - [BhanukaUOM](https://github.com/BhanukaUOM)
+- [Codilis](https://github.com/Codilis)
 - [damcclean](https://github.com/damcclean)
 - [danhenriquesc](https://github.com/danhenriquesc)
 - [hundredrab](https://github.com/hundredrab)
