@@ -16,14 +16,14 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 **Data Structures**
 
-| Problem                      | Python3 | C++  |  PHP |  C# |
-| :---------------------------- | :--: | :--: | :--: | :--: |
-| Arrays: Left Rotation        | ✓   | |        |        |
-| Strings: Making Anagrams        | ✓   | |        | ✓   |
-| Hash Tables: Ransom Note        | ✓   | |        |        |
-| Linked Lists: Detect a Cycle | ✓  | |        |        |
-| Stacks: Balanced Brackets | ✓   | |        |        |
-| Queues: A Tale of Two Stacks | ✓   | |        |        |
+| Problem                      | Python3 | C++  |  PHP |
+| :---------------------------- | :--: | :--: | :--: |
+| Arrays: Left Rotation        | ✓   | ✓ |        |
+| Strings: Making Anagrams        | ✓   | |        |
+| Hash Tables: Ransom Note        | ✓   | |        |
+| Linked Lists: Detect a Cycle | ✓  | |        |
+| Stacks: Balanced Brackets | ✓   | |        |
+| Queues: A Tale of Two Stacks | ✓   | |        |
 | Tries: Contacts | ✓   | |        |        |
 
 **Algorithms**
@@ -64,18 +64,18 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 **Warmup**
 
-|  Problem | Python3 | C++ | PHP | C# |
-| :-- | :--: | :--: | :--: | :--: |
-| Solve Me First | ✓ | | | |
-| Simple Array Sum | ✓ | ✓ | | |
-| Compare the Triplets | | ✓ | | ✓ |
-| A Very Big Sum | | ✓ | | |
-| Diagonal Difference | | ✓ | | |
-| Plus Minus | | ✓ | | |
-| Staircase | | ✓ | | |
-| Mini-Max Sum | | | ✓ | |
-| Birthday Cake Candles | | | ✓ | |
-| Time Conversion | ✓ | | ✓ | |
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Solve Me First | ✓ | ✓ | |
+| Simple Array Sum | ✓ | ✓ | |
+| Compare the Triplets | ✓ | ✓ | |
+| A Very Big Sum | ✓ | ✓ | |
+| Diagonal Difference | | ✓ | |
+| Plus Minus | ✓ | ✓ | |
+| Staircase | ✓ | ✓ | |
+| Mini-Max Sum | |✓ | ✓ |
+| Birthday Cake Candles | |✓ | ✓ |
+| Time Conversion | ✓ | ✓| ✓ |
 
 
 **Implementation**
