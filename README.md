@@ -37,13 +37,13 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 **Techniques/Concepts**
 
-| Problem                      | Python3 | C++  |  PHP |
-| :---------------------------- | :--: | :--: | :--: |
-| Time Complexity: Primality        | ✓   | |        |
-| Recursion: Fibonacci Numbers        | ✓   | |        |
-| Recursion: Davis' Staircase       | ✓   | |        |
-| DP: Coin Change       | ✓   | |        |
-| Bit Manipulation: Lonely Integer        | ✓   | |        |
+| Problem                      | Python3 | C++  |  PHP |  C# |
+| :---------------------------- | :--: | :--: | :--: | :--: |
+| Time Complexity: Primality        | ✓   | |        |        |
+| Recursion: Fibonacci Numbers        | ✓   | |        | ✓   |
+| Recursion: Davis' Staircase       | ✓   | |        |        |
+| DP: Coin Change       | ✓   | |        |        |
+| Bit Manipulation: Lonely Integer        | ✓   | |        |        |
 
 
 ## Contest: OLX - Code and the Curious
