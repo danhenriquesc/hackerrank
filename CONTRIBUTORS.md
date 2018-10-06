@@ -10,6 +10,8 @@ Every name is sorted in alphabetically.
 - [jackey8616](https://github.com/jackey8616)
 - [mirianashvili](https://github.com/mirianashvili)
 - [Obsinqsob01](https://github.com/Obsinqsob01)
+- [PyPatel](https://github.com/PyPatel)
+- [Remya Vava](https://github.com/remyapv)
 - [RitvijSrivastava](https://github.com/RitvijSrivastava) 
 - [sbz](https://github.com/sbz)
 - [shaurya uppal](https://github.com/shauryauppal)

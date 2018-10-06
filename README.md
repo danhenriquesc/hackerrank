@@ -18,7 +18,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 | Problem                      | Python3 | C++  |  PHP |
 | :---------------------------- | :--: | :--: | :--: |
-| Arrays: Left Rotation        | ✓   | |        |
+| Arrays: Left Rotation        | ✓   | ✓ |        |
 | Strings: Making Anagrams        | ✓   | |        |
 | Hash Tables: Ransom Note        | ✓   | |        |
 | Linked Lists: Detect a Cycle | ✓  | |        |
@@ -71,8 +71,8 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Compare the Triplets | ✓ | ✓ | |
 | A Very Big Sum | ✓ | ✓ | |
 | Diagonal Difference | ✓ | ✓ | |
-| Plus Minus | | ✓ | |
-| Staircase | | ✓ | |
+| Plus Minus | ✓ | ✓ | |
+| Staircase | ✓ | ✓ | |
 | Mini-Max Sum | |✓ | ✓ |
 | Birthday Cake Candles | |✓ | ✓ |
 | Time Conversion | ✓ | ✓| ✓ |
@@ -125,6 +125,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Alternating Characters | ✓ | | |
 | String Construction | | | ✓ |
 | Ashton and String | | ✓ | |
+| Two Strings |  | | ✓ |
 
 **Sorting**
 
