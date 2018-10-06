@@ -24,7 +24,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Linked Lists: Detect a Cycle | ✓  | |        |
 | Stacks: Balanced Brackets | ✓   | |        |
 | Queues: A Tale of Two Stacks | ✓   | |        |
-| Tries: Contacts | ✓   | |        |
+| Tries: Contacts | ✓   | |        |        |
 
 **Algorithms**
 
