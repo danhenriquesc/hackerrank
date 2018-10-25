@@ -15,6 +15,6 @@ In this section you have to follow the next:
 To doc your code follow this:
 * Always add the problem name in the list of solutions of this repo, in README.md
 * When adding an solution in a language that was not used yet, create the column to it.
-* Add your name to CONTRIBUTORS.md, when it was created.
+* Add your name to CONTRIBUTORS.md, sorted alphabetically.
 
 #### Happy Coding :computer:
