@@ -8,6 +8,7 @@ Every name is sorted in alphabetically.
 - [danhenriquesc](https://github.com/danhenriquesc)
 - [hundredrab](https://github.com/hundredrab)
 - [jackey8616](https://github.com/jackey8616)
+- [mateusguerra](https://github.com/mateusguerra)
 - [mirianashvili](https://github.com/mirianashvili)
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [PyPatel](https://github.com/PyPatel)
