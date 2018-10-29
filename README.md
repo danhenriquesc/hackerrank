@@ -16,15 +16,15 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
 **Data Structures**
 
-| Problem                      | Python3 | C++  |  PHP |
-| :---------------------------- | :--: | :--: | :--: |
-| Arrays: Left Rotation        | ✓   | ✓ |        |
-| Strings: Making Anagrams        | ✓   | |        |
-| Hash Tables: Ransom Note        | ✓   | |        |
-| Linked Lists: Detect a Cycle | ✓  | |        |
-| Stacks: Balanced Brackets | ✓   | |        |
-| Queues: A Tale of Two Stacks | ✓   | |        |
-| Tries: Contacts | ✓   | |        |
+| Problem                      | Python3 | C++  |  PHP | Golang  |
+| :---------------------------- | :--: | :--: | :--: |:--:|
+| Arrays: Left Rotation        | ✓   | ✓ | ✓ |  ✓ | |
+| Strings: Making Anagrams        | ✓   | |        |  | |
+| Hash Tables: Ransom Note        | ✓   | |        |  | |
+| Linked Lists: Detect a Cycle | ✓  | |        |  | |
+| Stacks: Balanced Brackets | ✓   | |        |  | |
+| Queues: A Tale of Two Stacks | ✓   | |        |  | |
+| Tries: Contacts | ✓   | |        |  | |
 
 **Algorithms**
 
