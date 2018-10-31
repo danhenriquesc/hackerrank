@@ -112,20 +112,20 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 
 **Strings**
 
-|  Problem | Python3 | C++ | PHP |
-| :-- | :--: | :--: | :--: |
-| Super Reduced String | | | ✓ |
-| CamelCase | ✓ | | ✓ |
-| Strong Password | ✓ | | |
-| Two Characters | | | ✓ |
-| Caesar Cipher | | | ✓ |
-| Mars Exploration | | | ✓ |
-| HackerRank in a String! | ✓ | | |
-| Pangrams | ✓ | | ✓ |
-| Alternating Characters | ✓ | | |
-| String Construction | | | ✓ |
-| Ashton and String | | ✓ | |
-| Two Strings | ✓ | | ✓ |
+|  Problem | Python3 | C++ | PHP | Go |
+| :-- | :--: | :--: | :--: | :--: |
+| Super Reduced String | | | ✓ | | 
+| CamelCase | ✓ | | ✓ | | 
+| Strong Password | ✓ | | | | 
+| Two Characters | | | ✓ | | 
+| Caesar Cipher | | | ✓ | | 
+| Mars Exploration | | | ✓ | | 
+| HackerRank in a String! | ✓ | | | | 
+| Pangrams | ✓ | | ✓ | | 
+| Alternating Characters | ✓ | | | | 
+| String Construction | | | ✓ | | 
+| Ashton and String | | ✓ | | | 
+| Two Strings | ✓ | | ✓ | ✓ |
 
 **Sorting**
 
