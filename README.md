@@ -179,6 +179,13 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Left Rotation | ✓ | | |
 | Is This a Binary Search Tree? | ✓ | | |
 
+**Stacks**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Simple text editor | |✓| |
+
+
 **Linked Lists**
 
 |  Problem | Python3 | C++ | PHP |
