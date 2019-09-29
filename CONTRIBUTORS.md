@@ -2,6 +2,7 @@
 This is a list of contributors.
 Every name is sorted in alphabetically.
 
+- [Akshat Agarwal](https://github.com/hiiakku)
 - [arielmikiabraham](https://github.com/arielmikiabraham)
 - [BhanukaUOM](https://github.com/BhanukaUOM)
 - [damcclean](https://github.com/damcclean)
