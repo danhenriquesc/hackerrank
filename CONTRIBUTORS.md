@@ -17,4 +17,5 @@ Every name is sorted in alphabetically.
 - [sbz](https://github.com/sbz)
 - [shaurya uppal](https://github.com/shauryauppal)
 - [Ubamba98](https://github.com/ubamba98)
+- [Vibhu-Agarwal](https://github.com/Vibhu-Agarwal)
 - [vinayak42](https://github.com/vinayak42)

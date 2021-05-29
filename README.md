@@ -70,7 +70,7 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Simple Array Sum | ✓ | ✓ | |
 | Compare the Triplets | ✓ | ✓ | |
 | A Very Big Sum | ✓ | ✓ | |
-| Diagonal Difference | | ✓ | |
+| Diagonal Difference | ✓ | ✓ | |
 | Plus Minus | ✓ | ✓ | |
 | Staircase | ✓ | ✓ | |
 | Mini-Max Sum | |✓ | ✓ |
