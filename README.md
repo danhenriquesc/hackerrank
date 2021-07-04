@@ -31,6 +31,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Problem                      | Python3 | C++  |  PHP |
 | :---------------------------- | :--: | :--: | :--: |
 | Sorting: Bubble Sort        | ✓   | |        |
+| Sorting: Mark and Toys        | ✓   | |        |
 | Sorting: Comparator        | ✓   | |        |
 | Hash Tables: Ice Cream Parlor        | ✓   | |        |
 | DFS: Connected Cell in a Grid        | ✓   | |        |
