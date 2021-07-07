@@ -18,3 +18,4 @@ Every name is sorted in alphabetically.
 - [shaurya uppal](https://github.com/shauryauppal)
 - [Ubamba98](https://github.com/ubamba98)
 - [vinayak42](https://github.com/vinayak42)
+- [wahe3bru](https://github.com/Wahe3bru)

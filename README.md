@@ -230,3 +230,12 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Higher Than 75 Marks | ✓ |
 | Employee Names | ✓ |
 | Employee Salaries | ✓ |
+
+**Advanced Select**
+
+|  Problem | MySQL |
+| :-- | :--: |
+| The PADS | ✓  |
+| Occupations |  |
+| Binary Tree Nodes |  |
+| New Companies |  |
