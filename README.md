@@ -34,6 +34,7 @@ https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 | Sorting: Comparator        | ✓   | |        |
 | Hash Tables: Ice Cream Parlor        | ✓   | |        |
 | DFS: Connected Cell in a Grid        | ✓   | |        |
+| Minimum Swaps 2        | ✓   | |        |
 
 **Techniques/Concepts**
 
