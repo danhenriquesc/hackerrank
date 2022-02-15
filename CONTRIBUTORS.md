@@ -13,6 +13,7 @@ Every name is sorted in alphabetically.
 - [Obsinqsob01](https://github.com/Obsinqsob01)
 - [PyPatel](https://github.com/PyPatel)
 - [Remya Vava](https://github.com/remyapv)
+- [ristri](https://github.com/ristri)
 - [RitvijSrivastava](https://github.com/RitvijSrivastava) 
 - [sbz](https://github.com/sbz)
 - [shaurya uppal](https://github.com/shauryauppal)
