@@ -6,6 +6,7 @@ Every name is sorted in alphabetically.
 - [BhanukaUOM](https://github.com/BhanukaUOM)
 - [damcclean](https://github.com/damcclean)
 - [danhenriquesc](https://github.com/danhenriquesc)
+- [gktejus](https://github.com/gktejus)
 - [hundredrab](https://github.com/hundredrab)
 - [jackey8616](https://github.com/jackey8616)
 - [mateusguerra](https://github.com/mateusguerra)

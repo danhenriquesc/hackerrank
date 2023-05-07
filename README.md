@@ -1,3 +1,4 @@
+
 # HackerRank
 
 A collection of solutions and explanations of Hackerrank.com problems in many languages.
@@ -136,12 +137,20 @@ https://www.hackerrank.com/contests/code-and-the-curious/challenges
 | Intro to Tutorial Challenges | | | ✓ |
 | Insertion Sort - Part 1 | | | ✓ |
 | Counting Sort 1 | | | ✓ |
+| Running time of ALgorithms | | ✓ | |
+
 
 **Searching**
 
 |  Problem | Python3 | C++ | PHP |
 | :-- | :--: | :--: | :--: |
 | Ice Cream Parlor | | | ✓ |
+
+**Graph Theory**
+
+|  Problem | Python3 | C++ | PHP |
+| :-- | :--: | :--: | :--: |
+| Journey to the Moon | ✓ | | |
 
 **Graph Theory**
 
